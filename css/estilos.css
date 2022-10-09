@@ -1,4 +1,6 @@
 @import './cabecalho.css';
+@import 'rodape.css';
+@import './superiorSecao.css';
 
 *,
 *::before,
